@@ -89,12 +89,6 @@ Desenvolvedor Web **Fullstack** apaixonado por unir interfaces modernas e intuit
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=igortobias&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=14B8A6&icon_color=6366F1&text_color=E2E8F0" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=igortobias&theme=tokyonight&hide_border=true&background=0F172A&ring=14B8A6&fire=6366F1&currStreakLabel=14B8A6" width="48%" />
 
 <br/>
 
@@ -197,9 +191,6 @@ Set. 2026          Expositor de Soluções Tecnológicas @ Netline Serv (IV CNEA
 
 <img src="https://img.shields.io/badge/Engenharia_Inform%C3%A1tica-UEM-0F172A?style=flat-square&logo=googlescholar&logoColor=14B8A6" />
 <img src="https://img.shields.io/badge/BPM%2FBPMN-Certifica%C3%A7%C3%A3o%20Profissional%202026-6366F1?style=flat-square&logo=readdotcv&logoColor=white" />
-<img src="https://img.shields.io/badge/Meta-Frontend%20Developer-1877F2?style=flat-square&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Scrum-Fundamentals%20Certified-22C55E?style=flat-square&logo=scrumalliance&logoColor=white" />
 
 </div>
 
