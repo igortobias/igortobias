@@ -15,6 +15,9 @@
 <br/>
 
 <!-- Social badges -->
+<a href="https://igor-tobias-pumbe.vercel.app/">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-igor--tobias--pumbe.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 <a href="mailto:igortobiaspumbe@gmail.com">
   <img src="https://img.shields.io/badge/Email-igortobiaspumbe%40gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -91,15 +94,13 @@ Desenvolvedor Web **Fullstack** apaixonado por unir interfaces modernas e intuit
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=igortobias&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=14B8A6&icon_color=6366F1&text_color=E2E8F0" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=igortobias&theme=tokyonight&hide_border=true&background=0F172A&ring=14B8A6&fire=6366F1&currStreakLabel=14B8A6" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=igortobias&theme=tokyonight&hide_border=true&background=0F172A&ring=14B8A6&fire=6366F1&currStreakLabel=14B8A6" width="48%" />
 
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igortobias&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=14B8A6&text_color=E2E8F0" width="48%" />
 
 </div>
-
-> Substitua `igortobias` pelo seu nome de utilizador do GitHub nos três links acima para os cartões carregarem automaticamente.
 
 <br/>
 
@@ -226,7 +227,7 @@ Set. 2026          Expositor de Soluções Tecnológicas @ Netline Serv (IV CNEA
 <a href="#">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="#">
+<a href="https://igor-tobias-pumbe.vercel.app/">
   <img src="https://img.shields.io/badge/Portfólio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
