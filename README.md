@@ -18,10 +18,10 @@
 
 Desenvolvedor Web Fullstack apaixonado por criar experiências digitais excepcionais, unindo interfaces modernas e intuitivas a sistemas backend robustos, seguros e escaláveis.
 
-* 💼 **Atuação Atual:** Desenvolvedor Web Fullstack na **Netline Serv**, onde atuo na arquitetura e desenvolvimento de soluções web escaláveis e módulos avançados (moderação de mídia via IA e sistemas de chat em tempo real).
-* 🎓 **Educação:** Estudante de **Engenharia Informática** na *Universidade Eduardo Mondlane (UEM)*.
-* 👥 **Liderança & Mentoria:** Mentor e Líder Técnico em desenvolvimento web, com experiência em gestão de equipes e capacitação de novos talentos.
-* 📚 **Filosofia:** Aprendizado contínuo, código limpo e sustentável. Acredito no poder do software para transformar vidas e impulsionar negócios.
+*  **Atuação Atual:** Desenvolvedor Web Fullstack na **Netline Serv**, onde atuo na arquitetura e desenvolvimento de soluções web escaláveis e módulos avançados (moderação de mídia via IA e sistemas de chat em tempo real).
+*  **Educação:** Estudante de **Engenharia Informática** na *Universidade Eduardo Mondlane (UEM)*.
+*  **Liderança & Mentoria:** Mentor e Líder Técnico em desenvolvimento web, com experiência em gestão de equipes e capacitação de novos talentos.
+*  **Filosofia:** Aprendizado contínuo, código limpo e sustentável. Acredito no poder do software para transformar vidas e impulsionar negócios.
 
 ---
 
