@@ -15,9 +15,9 @@
 <br/>
 
 <!-- Social badges -->
-<!-- <a href="https://igor-tobias-pumbe.vercel.app/">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-igor--tobias--pumbe.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
-</a> -->
+<a href="https://igor-tobias-pumbe.vercel.app/">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a> 
 <a href="mailto:igortobiaspumbe@gmail.com">
   <img src="https://img.shields.io/badge/Email-igortobiaspumbe%40gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
