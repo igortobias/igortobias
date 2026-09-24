@@ -90,12 +90,12 @@ Desenvolvedor Web **Fullstack** apaixonado por unir interfaces modernas e intuit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=14B8A6&icon_color=6366F1&text_color=E2E8F0" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&background=0F172A&ring=14B8A6&fire=6366F1&currStreakLabel=14B8A6" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=igortobias&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=14B8A6&icon_color=6366F1&text_color=E2E8F0" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=igortobias&theme=tokyonight&hide_border=true&background=0F172A&ring=14B8A6&fire=6366F1&currStreakLabel=14B8A6" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=14B8A6&text_color=E2E8F0" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igortobias&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=14B8A6&text_color=E2E8F0" width="48%" />
 
 </div>
 
