@@ -92,7 +92,6 @@ Desenvolvedor Web **Fullstack** apaixonado por unir interfaces modernas e intuit
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igortobias&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=14B8A6&text_color=E2E8F0" width="48%" />
 
 </div>
 
