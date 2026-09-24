@@ -99,7 +99,7 @@ Desenvolvedor Web **Fullstack** apaixonado por unir interfaces modernas e intuit
 
 </div>
 
-> Substitua `SEU_USUARIO_GITHUB` pelo seu nome de utilizador do GitHub nos três links acima para os cartões carregarem automaticamente.
+> Substitua `igortobias` pelo seu nome de utilizador do GitHub nos três links acima para os cartões carregarem automaticamente.
 
 <br/>
 
